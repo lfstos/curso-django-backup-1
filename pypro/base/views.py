@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 
 def hello(request):
-    return HttpResponse('Hello Python')
+    return HttpResponse('Sistema em construção!')
