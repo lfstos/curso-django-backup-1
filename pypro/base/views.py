@@ -2,5 +2,5 @@
 from django.http import HttpResponse
 
 
-def hello(request):
-    return HttpResponse('Sistema em construção!')
+def home(request):
+    return HttpResponse('Olá Django')
